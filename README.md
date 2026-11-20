@@ -47,6 +47,7 @@ if rep.reliable:
 | `improved_root.py` | Sutchin | The tool |
 | `benchmark.py` | Austin | Tests and charts |
 | `demo.ipynb` | Stryder | Step-by-step walkthrough |
+| `presentation.pdf` | Everyone | Slides |
 
 ## Run it
 
